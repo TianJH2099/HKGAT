@@ -1,1 +1,1 @@
-# Collaborative Heterogeneous Knowledge Graph Attention Network for Recommendation System
+# HKGAT： Heterogeneous Knowledge Graph Attention Network for Explainable Recommendation System
